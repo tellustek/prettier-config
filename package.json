@@ -1,19 +1,16 @@
 {
   "name": "@tellustek/prettier-config",
   "version": "1.0.0",
-  "description": "",
+  "description": "Prettier configuration for Tellustek",
   "main": "index.json",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tellustek/prettier-config.git"
+    "url": "git@github.com:tellustek/prettier-config.git"
   },
   "keywords": [
     "prettier"
   ],
-  "author": "Shingo",
+  "author": "Shingo<shingo@tellustek.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tellustek/prettier-config/issues"
