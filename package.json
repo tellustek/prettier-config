@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tellustek/prettier-config/issues"
   },
-  "homepage": "https://github.com/tellustek/prettier-config#readme"
+  "homepage": "https://github.com/tellustek/prettier-config#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
